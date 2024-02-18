@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Fullchee/jsdom-stripping-aspect-ratio#readme",
   "dependencies": {
-    "jsdom": "^24.0.0"
+    "jsdom": "^21.1.2"
   }
 }
